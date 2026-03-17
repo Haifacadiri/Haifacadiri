@@ -13,10 +13,10 @@ Data Science and Machine Learning Enthusiast
 
 ## Skills & Tools
 
-Languages: Python, SQL
-Machine Learning: Machine Learning, Deep Learning, Scikit-learn
-Data Analysis: Numpy, Pandas, Matplotlib, Seaborn
-Visualization: Power BI
+-Languages: Python, SQL
+-Machine Learning: Machine Learning, Deep Learning, Scikit-learn
+-Data Analysis: Numpy, Pandas, Matplotlib, Seaborn
+-Visualization: Power BI
 
 ## How to Reach Me
 
