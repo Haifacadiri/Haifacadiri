@@ -19,7 +19,7 @@ Aspiring Data Scientist | Machine Learning & Data Analysis
 
 ## How to Reach Me
 
-Email: haifanaseer6@gmail.com
+Email: haifacadiri@gmail.com
 
 Thanks for visiting my profile. Feel free to explore my repositories.
 
