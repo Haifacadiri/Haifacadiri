@@ -1,9 +1,8 @@
 # Hi, I'm Haifa C
 
-B.Tech CSE Graduate
+B.Tech Computer Science Graduate
 
-Data Science and Machine Learning Enthusiast
-
+Aspiring Data Scientist | Machine Learning & Data Analysis
 ## About Me
 
 - Recently completed a Data Science Internship
