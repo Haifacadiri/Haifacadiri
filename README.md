@@ -1,6 +1,7 @@
 # Hi, I'm Haifa C
 
 B.Tech Computer Science Graduate
+
 Aspiring Data Scientist | Machine Learning & Data Analysis
 ## About Me
 
