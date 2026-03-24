@@ -1,14 +1,13 @@
 # Hi, I'm Haifa C
 
 B.Tech Computer Science Graduate
-
 Aspiring Data Scientist | Machine Learning & Data Analysis
 ## About Me
 
-- Recently completed a Data Science Internship
-- Passionate about Machine Learning and turning data into insights
-- Always learning and exploring new tools in the Data Science ecosystem
-- Open to Data Science and ML roles and opportunities
+- Completed a Data Science Internship and gained hands-on experience
+- Passionate about Machine Learning and uncovering insights from data
+- Continuously exploring new tools and trends in the Data Science ecosystem
+- Actively seeking opportunities in Data Science and Machine Learning
 
 ## Skills & Tools
 
